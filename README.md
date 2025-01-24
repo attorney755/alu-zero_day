@@ -1,1 +1,1 @@
-# alu-zero_dayMy first readme
+# alu-zero_day
